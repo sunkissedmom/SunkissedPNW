@@ -1,0 +1,30 @@
+/* styles for the elements */
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #4A4A4A;
+}
+
+/* Headings */
+h1 {
+    color: #83189e;
+    font-size: 2.5em;
+}
+h2 {
+    color: #8a480b; 
+    font-style: italic;
+    font-size: 2em;
+}
+h3 {
+    color: #48434b;
+    font-size: 1.75em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+/* Relational Selectors */
+section#backpacking_guide>ul {
+    color: orangered;
+}
+
+main em {
+    color: #0077ff;
+}
